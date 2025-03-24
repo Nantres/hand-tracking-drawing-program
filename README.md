@@ -2,4 +2,5 @@
 
 run `fingercounter.py`
 
-[![Little red ridning hood](https://i.sstatic.net/XCRlR.png)](https://vimeo.com/1068872069?share=copy "Little red riding hood - Click to Watch!")
+https://github.com/user-attachments/assets/4cb9d66e-6f41-46da-b9ab-4b140556ca85
+
