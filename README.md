@@ -2,4 +2,4 @@
 
 run `fingercounter.py`
 
-demo video will be added in the near future
+https://vimeo.com/1068872069?share=copy
